@@ -1,4 +1,4 @@
-from intern.extract_information import get_id_img
+from extract_information import get_id_img
 import glob
 import os 
 import string
